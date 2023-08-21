@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "github commit new2");
+        System.out.println( "github commit new3");
     }
 }
